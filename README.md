@@ -20,6 +20,12 @@ Additionally, this GPT helps users conceptualize and build IoT systems that prom
 [Biological Taxonomy](https://github.com/sourceduty/Biological_Taxonomy)
 <br>
 [Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
+<br>
+[Pi](https://github.com/sourceduty/Raspberry_Pi)
+<br>
+[Electronic Simulator](https://github.com/sourceduty/Electronic_Simulator)
+<br>
+[Parts Project](https://github.com/sourceduty/Parts_Project)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
