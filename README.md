@@ -15,7 +15,7 @@ Additionally, this GPT helps users conceptualize and build IoT systems that prom
 <br>
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 <br>
-[AI IoT](https://github.com/sourceduty/AI_IoT)
+[AI + IoT](https://github.com/sourceduty/AI_IoT)
 <br>
 [Biological Taxonomy](https://github.com/sourceduty/Biological_Taxonomy)
 <br>
